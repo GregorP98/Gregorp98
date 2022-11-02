@@ -4,7 +4,7 @@
 My name is Gregor, I'm a full stack software engineer currently based in Newcastle upon-Tyne, with a background in Mechanical Engineering.
 
 
-<a href="https://www.linkedin.com/in/alexkubbinga/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a><a href="mailto:alexkubbinga18@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/gregorp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a><a href="mailto:gregorjpearce@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 
 
 <div align="center">
