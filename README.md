@@ -49,7 +49,7 @@ My name is Gregor, I'm a full stack software engineer currently based in Newcast
 <h1 align="center">My latest projects: </h1>
 <div align="center">
  <a href="https://github.com/GregorP98/esportscore" align="center">EsportsZone</a></a>
-  <a href="https://github.com/GregorP98/Listy" align="center"></a>Listy</a>
+  <a href="https://github.com/GregorP98/Listy" align="center">Listy</a></a>
     <a href="https://github.com/GregorP98/okane" align="center">Okane</a></a>
   </div>
 
